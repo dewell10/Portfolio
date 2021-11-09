@@ -2,5 +2,8 @@ body{
     background-color: maroon;
 }
 .name{
-    color: yellow;
+    color: blue;
+}
+.profilepic{
+    border-radius: 50%;
 }
